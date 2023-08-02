@@ -12,23 +12,13 @@ const About = () => {
             </div>
 
             <p className="text-xl mt-20">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-            deserunt illum mollitia officiis qui exercitationem perferendis neque
-            quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-            iste, totam fugiat recusandae rerum laborum perferendis molestiae
-            aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-            ab mollitia voluptatibus, a nostrum eveniet laborum!
+            Besides being a tech enthusiast, I am into movies and music. I love participating in cultural activities. Thoughout my college and university life, I have engaged in various bands and organizations as a musician. I have also organized a number of events in my univesity life, which boosted my teamwork skills and leadership competency.
             </p>
 
             <br />
 
             <p className="text-xl">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-            pariatur, vel similique sint, nobis aspernatur ut praesentium
-            explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-            quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-            Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-            magni quo! Eum cupiditate debitis labore.
+            As an engineering student, I always feel thrilled to solve critical problems in a strategic manner. Adapting to new programming languages and utility tools has been effortless, as I learned so many programming languages like C,C++,Java,Python,Matlab and a numerous number of utility tools through my University course curriculum.  
             </p>
         </div>
     </div>
