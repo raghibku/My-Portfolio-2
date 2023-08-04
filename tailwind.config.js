@@ -5,7 +5,21 @@ export default {
     "./src/**/*.{js,jsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      keyframes: {
+        scrolll: {
+          "0%": {
+              transform: "none"
+          },
+          "100%":{
+            transform: "translateY(-75%)"
+          }
+        },
+      },
+      animation: {
+        'scrolling': 'scrolll 20s ease-in-out infinite',
+      },
+    },
     fontFamily:{
       signature: ['Great Vibes'],
     }
