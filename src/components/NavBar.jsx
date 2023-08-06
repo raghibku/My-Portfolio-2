@@ -30,7 +30,7 @@ const NavBar = () => {
     return (
         <div className='bg-black w-full h-20 flex justify-between items-center'>
             <div className="left text-white ml-8">
-                <h1 className='text-4xl font-signature'>Raghib</h1>
+                <h1 className='text-4xl font-signature'>Raghib Shahriar</h1>
             </div>
             <div className="right mr-4">
 
