@@ -14,8 +14,8 @@ const PortfolioR = () => {
                 <p className="py-6">Checkout some of my work right here</p>
             </div>
       <div className='flex flex-col'>
-        <div className="pb-8">
-          <p className="text-3xl font-bold inline border-b-4 border-gray-500">Fruit Burst</p>
+        <div className="flex items-center pb-8">
+          <p className="text-3xl font-bold inline">Fruit Burst</p>
           <button className="text-white bg-gradient-to-b mx-10 from-cyan-500 to-blue-500 px-6 py-3 rounded-md hover:scale-110 duration-300">
               <a href="https://raghibku.github.io/Fruit_Burst/" target="_blank">View Page</a>
           </button>
@@ -36,15 +36,17 @@ const PortfolioR = () => {
             </div>
         </div>
       </div>
-
+      <br />
+      <br />
 
       <div className='flex flex-col'>
-        <div className="pb-8">
-          <p className="text-3xl font-bold inline border-b-4 border-gray-500">Gaming zone</p>
+        <div className="flex items-center pb-8">
+          <p className="text-3xl font-bold inline">Gaming zone</p>
           <button className="text-white bg-gradient-to-b mx-10 from-cyan-500 to-blue-500 px-6 py-3 rounded-md hover:scale-110 duration-300">
               <a href="https://raghibku.github.io/gamer-zone/" target="_blank">View Page</a>
           </button>
         </div>
+        
       {/* pc gamingZone */}
         <div className='hidden relative h-[450px] w-[900px] lg:block'>
           <div class="absolute top-0 right-0  overflow-hidden  w-[700px] h-[300px] rounded-lg border-2 border-black">
